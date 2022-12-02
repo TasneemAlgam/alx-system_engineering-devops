@@ -1,2 +1,2 @@
 #!/bin/bash
-0x00-shell_basics readme
+0x00-shell-basics readme
